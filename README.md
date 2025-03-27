@@ -31,7 +31,7 @@ I’m open to joining a team who’s mission is to solve Roko’s … and are al
 
 ---
 
-website:[pbrazeale.github.io/](https://pbrazeale.github.io/)
+website: [pbrazeale.github.io/](https://pbrazeale.github.io/)
 
 <!--
 <details>
