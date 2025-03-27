@@ -31,11 +31,12 @@ I’m open to joining a team who’s mission is to solve Roko’s … and are al
 
 ---
 
-#
+[website]: https://pbrazeale.github.io/
+
 <!--
 <details>
  <summary><h3>👨‍💻 Philip's Coding Journey</h3></summary>
    I started my coding journey as ..
   testing
 -->
-[website]: https://pbrazeale.github.io/
+
