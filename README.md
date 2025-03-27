@@ -27,7 +27,7 @@ I’m open to joining a team who’s mission is to solve Roko’s … and are al
 ---
 
 ### 📊 Stats
-<img alt="Philip's GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pbrazeale&show_icons=true&theme=tokyonight" />
+<img alt="Philip's GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=pbrazeale&show_icons=true&theme=tokyonight" />
 
 ---
 
