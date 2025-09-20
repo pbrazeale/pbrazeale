@@ -1,6 +1,6 @@
 # 🧙‍♂️ Philip Brazeale
 
-**`Python Developer 🐍| Publisher 📚`** Adaptable engineer with a strong foundation in Python development, internal tooling, and LLM integration. Adept at supporting cross-functional teams through AI-driven workflows, automated reporting systems, and scalable IT infrastructure. Proven success in improving efficiency, reducing costs, and supporting internal users with prompt technical solutions. Passionate about documentation, user education, and continuous improvement.
+**AI Engineer** & **Publisher** | Production LLM agents, evals, and editorial AI (SARAH) | **Python** • LLMs | I’m an AI Engineer who ships production-grade agentic systems that cut workload and cost. Ask me about why **Obsidian** is my most valuable tool as a developer. 
 
 ---
 
