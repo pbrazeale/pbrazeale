@@ -1,6 +1,6 @@
 # 🧙‍♂️ Philip Brazeale
 
-AI Engineer & Publisher. From author → prompt engineer → AI engineer. Creator of [NovelFoundry](https://novelfoundry.com). Ask me about why **Obsidian** is my most valuable tool as a developer. 
+AI Engineering Lead & Publisher. From author → prompt engineer → AI engineer. Creator of [NovelFoundry](https://novelfoundry.com). Ask me about why **Obsidian** is my most valuable tool as a developer. 
 
 ---
 
